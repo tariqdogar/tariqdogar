@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tariq
+- 👀 I’m interested in learning Copilot with MS Office applications
+- 🌱 I’m currently learning ChatGPT
+- 💞️ I’m looking to collaborate on learning and implementing Copiot X
+- 📫 tariqdogar@gmail.com
